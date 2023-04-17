@@ -1,7 +1,7 @@
 {
   "packages": {
     ".": {
-      "changelog-path": "CHANGELOG.md",
+      "changelog-path": "./CHANGELOG.md",
       "release-type": "node",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
@@ -10,7 +10,7 @@
       "exclude-paths": ["./api", "./design-system"]
     },
     "api": {
-      "changelog-path": "CHANGELOG.md",
+      "changelog-path": "./api/CHANGELOG.md",
       "release-type": "node",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
@@ -18,7 +18,7 @@
       "prerelease": false
     },
     "design-system": {
-      "changelog-path": "CHANGELOG.md",
+      "changelog-path": "./design-system/CHANGELOG.md",
       "release-type": "node",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
