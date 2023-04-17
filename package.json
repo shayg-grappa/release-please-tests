@@ -1,0 +1,23 @@
+{
+  "name": "release-please-tests",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shayg-grappa/release-please-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shayg-grappa/release-please-tests/issues"
+  },
+  "homepage": "https://github.com/shayg-grappa/release-please-tests#readme",
+  "devDependencies": {
+    "release-please": "^15.10.3"
+  }
+}
