@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/shayg-grappa/release-please-tests/compare/webapp-v1.2.0...webapp-v1.3.0) (2023-04-17)
+
+
+### Features
+
+* added webapp log message ([#14](https://github.com/shayg-grappa/release-please-tests/issues/14)) ([e70f6cf](https://github.com/shayg-grappa/release-please-tests/commit/e70f6cf2dbed249b2ff9465647d6047e49f6533d))
+
+
+### Bug Fixes
+
+* added processing log message ([#13](https://github.com/shayg-grappa/release-please-tests/issues/13)) ([7799960](https://github.com/shayg-grappa/release-please-tests/commit/779996048574e42957a51f8d9ffa7eae20280650))
+
 ## [1.2.0](https://github.com/shayg-grappa/release-please-tests/compare/webapp-v1.1.0...webapp-v1.2.0) (2023-04-17)
 
 
