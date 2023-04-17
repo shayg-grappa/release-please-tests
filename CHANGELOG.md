@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/shayg-grappa/release-please-tests/compare/release-please-action-v1.0.0...release-please-action-v1.0.1) (2023-04-17)
+
+
+### Bug Fixes
+
+* update api log message ([c779e27](https://github.com/shayg-grappa/release-please-tests/commit/c779e27c887ed937a247dfd6b86c89cb7748be3c))
+
 ## 1.0.0 (2023-04-17)
 
 
