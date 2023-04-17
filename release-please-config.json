@@ -1,6 +1,7 @@
 {
   "packages": {
     ".": {
+      "package-name": "webapp",
       "changelog-path": "CHANGELOG.md",
       "release-type": "node",
       "bump-minor-pre-major": false,
@@ -11,7 +12,7 @@
       "include-component-in-tag": true
     },
     "api": {
-      "changelog-path": "api/CHANGELOG.md",
+      "changelog-path": "CHANGELOG.md",
       "release-type": "node",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
@@ -20,7 +21,7 @@
       "include-component-in-tag": true
     },
     "design-system": {
-      "changelog-path": "design-system/CHANGELOG.md",
+      "changelog-path": "CHANGELOG.md",
       "release-type": "node",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
