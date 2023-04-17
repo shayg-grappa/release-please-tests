@@ -17,7 +17,7 @@ jobs:
         with:
           command: manifest
           release-type: node
-          package-name: release-please-action
+          package-name: grappa
           default-branch: prod
           monorepo-tags: true
           skip-labeling: true
